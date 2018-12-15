@@ -1,0 +1,13 @@
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\Istic.vbprojAssemblyReference.cache
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\Istic.vbproj.GenerateResource.cache
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\Istic.vbproj.CoreCompileInputs.cache
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\Istic.vbproj.CopyComplete
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\bin\Release\ISTIC.exe.config
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\bin\Release\ISTIC.exe
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\bin\Release\ISTIC.pdb
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\bin\Release\ISTIC.xml
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\ISTIC.Form1.resources
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\ISTIC.Resources.resources
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\ISTIC.exe
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\ISTIC.xml
+C:\Users\mejdi\Desktop\ISTIC\ISTIC\WindowsApp1\obj\Release\ISTIC.pdb
