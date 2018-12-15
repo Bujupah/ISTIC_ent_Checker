@@ -1,8 +1,8 @@
 ## ISTIC_ent_Checker
-<h2> An open source project made with VB.net. </h2>
+An open source project made with VB.net.
 
 ## About the app
-The application is able to get into the site and get the number of absence and notes automatically fast and rapid.
+The application is able to get into the site and get the number of absence and notes automatically fast and rapid.<br>
 EASY PEASY Application :)
 
 # INFO
